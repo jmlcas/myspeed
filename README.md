@@ -1,3 +1,3 @@
 # MySpeed
 
-Ir a "localhost:5216"
+Ver en "http://localhost:5216"
